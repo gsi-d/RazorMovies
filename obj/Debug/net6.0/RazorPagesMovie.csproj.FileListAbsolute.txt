@@ -313,3 +313,5 @@ C:\Users\vlnote51\Desktop\Guilherme\ProjetosPessoais\C#\Razor\RazorPagesMovie\bi
 C:\Users\vlnote51\Desktop\Guilherme\ProjetosPessoais\C#\Razor\RazorPagesMovie\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
 C:\Users\vlnote51\Desktop\Guilherme\ProjetosPessoais\C#\Razor\RazorPagesMovie\bin\Debug\net6.0\runtimes\win-arm\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
 C:\Users\vlnote51\Desktop\Guilherme\ProjetosPessoais\C#\Razor\RazorPagesMovie\bin\Debug\net6.0\runtimes\win-arm64\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\vlnote51\Desktop\Guilherme\ProjetosPessoais\C#\Razor\RazorPagesMovie\obj\Debug\net6.0\scopedcss\Pages\Movies\Index.cshtml.rz.scp.css
+C:\Users\vlnote51\Desktop\Guilherme\ProjetosPessoais\C#\Razor\RazorPagesMovie\obj\Debug\net6.0\scopedcss\Pages\Movies\Create.cshtml.rz.scp.css

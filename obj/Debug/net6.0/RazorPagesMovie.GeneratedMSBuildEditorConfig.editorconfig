@@ -27,10 +27,6 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW9kZWxzXE1vdmllLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/vlnote51/Desktop/Guilherme/ProjetosPessoais/C\#/Razor/RazorPagesMovie/Pages/Movies/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW92aWVzXENyZWF0ZS5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/vlnote51/Desktop/Guilherme/ProjetosPessoais/C\#/Razor/RazorPagesMovie/Pages/Movies/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW92aWVzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -41,10 +37,6 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/vlnote51/Desktop/Guilherme/ProjetosPessoais/C\#/Razor/RazorPagesMovie/Pages/Movies/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW92aWVzXEVkaXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/vlnote51/Desktop/Guilherme/ProjetosPessoais/C\#/Razor/RazorPagesMovie/Pages/Movies/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW92aWVzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/vlnote51/Desktop/Guilherme/ProjetosPessoais/C\#/Razor/RazorPagesMovie/Pages/Privacy.cshtml]
@@ -62,6 +54,14 @@ build_metadata.AdditionalFiles.CssScope =
 [C:/Users/vlnote51/Desktop/Guilherme/ProjetosPessoais/C\#/Razor/RazorPagesMovie/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vlnote51/Desktop/Guilherme/ProjetosPessoais/C\#/Razor/RazorPagesMovie/Pages/Movies/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW92aWVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = b-j7xszqgjdv
+
+[C:/Users/vlnote51/Desktop/Guilherme/ProjetosPessoais/C\#/Razor/RazorPagesMovie/Pages/Movies/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW92aWVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-agnwsfh565
 
 [C:/Users/vlnote51/Desktop/Guilherme/ProjetosPessoais/C\#/Razor/RazorPagesMovie/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s

@@ -46,3 +46,18 @@ button.accept-policy {
   white-space: nowrap;
   line-height: 60px;
 }
+
+footer div img.imgGuilherme{
+    border-radius: 100px;
+    width: 70px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+footer div div #dNome{
+  margin-top: 15px;
+}
+
+nav {
+    background-color: #cc0000;
+}

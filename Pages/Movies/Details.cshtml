@@ -1,4 +1,4 @@
-@page
+@page "{id:int}"
 @model RazorPagesMovie.Pages_Movies.DetailsModel
 
 @{
@@ -38,6 +38,6 @@
     </dl>
 </div>
 <div>
-    <a asp-page="./Edit" asp-route-id="@Model.Movie.Id">Edit</a> |
-    <a asp-page="./Index">Back to List</a>
+    <a asp-page="./Edit" asp-route-id="@Model.Movie.Id"><button class="btn btn-secondary">Editar</button></a> |
+    <a asp-page="./Index"><button class="btn btn-info">Voltar</button></a>
 </div>

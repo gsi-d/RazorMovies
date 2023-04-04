@@ -3,16 +3,16 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>@ViewData["Title"] - RazorPagesMovie</title>
+    <title>@ViewData["Title"] - Winter Movies</title>
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/RazorPagesMovie.styles.css" asp-append-version="true" />
 </head>
 <body>
     <header>
-        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+        <nav id="navBar" class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
             <div class="container">
-                <a class="navbar-brand" asp-area="" asp-page="/Index">RazorPagesMovie</a>
+                <a class="navbar-brand" asp-area="" asp-page="/Index">Winter Movies</a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
                         aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
@@ -23,7 +23,10 @@
                             <a class="nav-link text-dark" asp-area="" asp-page="/Index">Home</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-page="/Privacy">Privacy</a>
+                            <a class="nav-link text-dark" asp-area="" asp-page="/Privacy">Privacidade</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-page="/Movies/Index">Filmes</a>
                         </li>
                     </ul>
                 </div>
@@ -38,7 +41,14 @@
 
     <footer class="border-top footer text-muted">
         <div class="container">
-            &copy; 2023 - RazorPagesMovie - <a asp-area="" asp-page="/Privacy">Privacy</a>
+            <div class="row">
+                <div class="col-1">
+                    <img class="imgGuilherme" src="https://pps.whatsapp.net/v/t61.24694-24/338603001_185239784295120_9087657147720724326_n.jpg?ccb=11-4&oh=01_AdTsnsRDqBN1HP6jd1HE74EoHs7zQl32YNXWUutYOw9dDA&oe=6437D546">
+                </div>
+                <div id="dNome" class="col-1">
+                    <p>&copy; 2023 - Guilherme F. Silva - <a asp-area="" asp-page="/Privacy">Privacy</a><a> - (47) 98885-7537</a></p>
+                </div>
+            </div>
         </div>
     </footer>
 

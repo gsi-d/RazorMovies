@@ -1,4 +1,4 @@
-@page
+@page "{id:int}"
 @model RazorPagesMovie.Pages_Movies.CreateModel
 
 @{
@@ -7,9 +7,9 @@
 
 <h1>Create</h1>
 
-<h4>Movie</h4>
+<h4>Filme</h4>
 <hr />
-<div class="row">
+<div id="divContent" class="row">
     <div class="col-md-4">
         <form method="post">
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
@@ -34,6 +34,7 @@
                 <span asp-validation-for="Movie.Price" class="text-danger"></span>
             </div>
             <div class="form-group">
+                <p></p>
                 <input type="submit" value="Create" class="btn btn-primary" />
             </div>
         </form>

@@ -1,13 +1,13 @@
-@page
+@page "{id:int}"
 @model RazorPagesMovie.Pages_Movies.EditModel
 
 @{
     ViewData["Title"] = "Edit";
 }
 
-<h1>Edit</h1>
+<h1>Editar</h1>
 
-<h4>Movie</h4>
+<h4>Filme</h4>
 <hr />
 <div class="row">
     <div class="col-md-4">
@@ -35,6 +35,7 @@
                 <span asp-validation-for="Movie.Price" class="text-danger"></span>
             </div>
             <div class="form-group">
+                <p></p>
                 <input type="submit" value="Save" class="btn btn-primary" />
             </div>
         </form>
